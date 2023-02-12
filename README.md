@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Dev1nW
+- 👋 Hi, I’m Devin. A Masters in Artificial Intelligence Student. 
 - 👀 I’m interested in Reinforcement Learning
-- 🌱 I’m currently learning Machine Learning and Reinforcement Learning
+- 🌱 I’m currently learning Multi-Agent Network Systems, Reinforcement Learning, Machine Learning and Natural Language Processing 
