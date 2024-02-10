@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Devin. A Masters in Artificial Intelligence Student. 
-- 👀 I’m interested in Reinforcement Learning
-- 🌱 I’m currently learning Multi-Agent Network Systems, Reinforcement Learning, Machine Learning and Natural Language Processing 
+- 👋 Hi, I’m Devin. A Machine Learning Research Fellow for the Army Educational Outreach Program.
+- 👀 I’m interested in AI Alignment using Human Feedback (specifically using [Ratings](https://arxiv.org/abs/2307.16348)) and Natural Language Processesing.
+- 🌱 I’m currently learning more about Natural Language Processing (Specifically Large Language Models). 
