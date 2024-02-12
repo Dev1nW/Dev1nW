@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Devin. A Machine Learning Research Fellow for the Army Educational Outreach Program.
-- 👀 I’m interested in AI Alignment using Human Feedback (specifically using [Ratings](https://arxiv.org/abs/2307.16348)) and Natural Language Processesing.
-- 🌱 I’m currently learning more about Natural Language Processing (Specifically Large Language Models). 
+- 👀 I’m interested in AI Alignment using Human Feedback (specifically using [Ratings](https://arxiv.org/abs/2307.16348)) and Natural Language Processesing (in progress).
+- 📚 I have previously done work on [Rating-Based Reinforcement Learning](https://arxiv.org/abs/2307.16348) and [Deep Reinforcement Learning-based Optimal Time-constrained Intercept Guidance](https://arc.aiaa.org/doi/abs/10.2514/6.2024-2206). If you would like to see more click [here](https://scholar.google.com/citations?user=9sorVs8AAAAJ&hl=en&oi=sra).
