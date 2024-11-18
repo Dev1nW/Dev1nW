@@ -12,5 +12,4 @@ I'm a Machine Learning Research Fellow with the **Army Educational Outreach Prog
 
 ### 📫 Connect with me:
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9sorVs8AAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dev1nW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinwhiteai/)
