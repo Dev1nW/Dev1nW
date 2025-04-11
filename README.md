@@ -20,28 +20,6 @@ I'm a **Machine Learning Researcher** with the **Army Educational Outreach Progr
 
 ---
 
-### 📚 Publications
-
-*   **RbRL2.0: Integrated Reward and Policy Learning for Rating-based Reinforcement Learning** (Accepted, AAAI 2025 Bridge Program - Collaborative AI and Modeling of Humans) [[ArXiv]](https://arxiv.org/abs/2501.07502)
-*   **Performance Optimization of Ratings-Based Reinforcement Learning** (Accepted, AAAI 2025 Bridge Program - Collaborative AI and Modeling of Humans) [[ArXiv]](https://arxiv.org/abs/2501.07755)
-*   **Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games** (Accepted, AAAI 2025 Workshop - Toward Knowledgable Foundation Models) [[ArXiv]](https://arxiv.org/abs/2408.15950) [[Code]](https://github.com/Dev1nW/atari-gpt)
-*   **Rating-Based Reinforcement Learning** (AAAI 2024) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28886) [[Code]](https://github.com/Dev1nW/Rating-based-Reinforcement-Learning) *(Also presented at ICML 2023 Workshop - Many Facets of Preference-Based Learning [[Workshop Paper]](https://openreview.net/forum?id=uJrMgRbFXQ#all))*
-*   **Deep Reinforcement Learning-based Optimal Time-constrained Intercept Guidance** (AIAA GNC 2024) [[Paper]](https://arc.aiaa.org/doi/abs/10.2514/6.2024-2206)
-*   **Reinforcement Learning From Human Ratings** (Master's Thesis) [[Thesis]](https://www.proquest.com/openview/499ec7de0611b7c83d586323ee7c105a/1?pq-origsite=gscholar&cbl=18750&diss=y)
-
----
-
-### 💻 Key Projects
-
-*   **[ASCII Breakout (LLM Agents)](https://github.com/Dev1nW/ASCII_Breakout)**: Implementation allowing various LLMs (Gemini, GPT-4o, Llama 3.2) to play ASCII Breakout.
-*   **[ASCII Breakout MLX](https://github.com/Dev1nW/ASCII_Breakout_MLX)**: Llama 3.2 playing ASCII Breakout, optimized for Apple Silicon using MLX.
-*   **[RL-Driven nanoGPT for ASCII Breakout](https://github.com/Dev1nW/RL_Driven_nanoGPT)**: Training a nanoGPT model from scratch using PPO to play ASCII Breakout.
-*   **[Simplified RbRL & PbRL Implementations](https://github.com/Dev1nW/Simplified-Rating-and-Preference-RL)**: Clear Python code for Rating-based and Preference-based RL.
-*   **[Gemini Research Reviewer](https://github.com/Dev1nW/Gemini_Research_Reviewer)**: AI tool using the Gemini API for feedback on research papers.
-*   *(See [Projects Page](https://dev1nw.github.io/projects.html) on my website for more, including archived work)*
-
----
-
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinwhiteai/)
